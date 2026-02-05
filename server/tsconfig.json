@@ -1,0 +1,12 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "..",
+    "paths": {
+      "@ramp/shared": ["../shared/src/index.ts"]
+    },
+    "baseUrl": "."
+  },
+  "include": ["src", "../shared/src"]
+}

@@ -1,0 +1,13 @@
+date,vendor,amount,currency,category,description,submittedBy
+2026-02-01,Uber,45.00,USD,travel,Client meeting ride,Mike Johnson
+2026-02-01,Uber,45.00,USD,travel,Client meeting ride,Mike Johnson
+2026-01-31,Office Mart,500.00,USD,office_supplies,Office restock,Mike Johnson
+2026-01-29,Consulting Group LLC,2000.00,USD,professional_services,Advisory services,Mike Johnson
+2026-02-02,The Palm Restaurant,478.50,USD,meals,Team dinner - 2 people,Sarah Park
+2026-02-01,Ritz-Carlton,650.00,USD,travel,Saturday night hotel stay,Sarah Park
+2026-01-30,Amazon,1000.00,USD,equipment,Equipment purchase,Sarah Park
+2026-01-28,Quick Print Shop,300.00,USD,office_supplies,Printing services,Mike Johnson
+2026-01-27,Uber,45.00,USD,travel,Client meeting ride,Mike Johnson
+2026-01-26,Uber,45.00,USD,travel,Client meeting ride,Mike Johnson
+2026-01-25,Uber,45.00,USD,travel,Client meeting ride,Mike Johnson
+2026-01-24,Uber,45.00,USD,travel,Client meeting ride,Mike Johnson

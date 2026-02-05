@@ -1,0 +1,26 @@
+RECEIPT
+================================
+The Capital Grille
+155 E 42nd St, New York, NY 10017
+
+Date: 02/01/2026
+Server: Maria
+Table: 14
+
+1x Wagyu Steak          $68.00
+1x Lobster Tail         $59.00
+2x Glass Cabernet       $36.00
+1x Caesar Salad         $16.00
+1x Creme Brulee         $14.00
+
+Subtotal:              $193.00
+Tax (8.875%):           $17.13
+Tip (20%):              $38.60
+
+TOTAL:                 $248.73
+
+Payment: Corporate Visa ****4521
+Auth: 847291
+
+Thank you for dining with us!
+================================

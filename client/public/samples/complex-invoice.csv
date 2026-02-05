@@ -1,0 +1,16 @@
+date,vendor,amount,currency,category,description,submittedBy
+2026-01-31,AWS,2847.32,USD,software,Monthly cloud hosting - production + staging environments,Eva Thompson
+2026-01-31,Google Cloud Platform,1523.18,USD,software,GCP monthly - BigQuery + Cloud Run + Storage,Eva Thompson
+2026-01-31,Datadog,899.00,USD,software,Infrastructure monitoring - 50 hosts - Pro plan,Eva Thompson
+2026-01-31,Snowflake,1250.00,USD,software,Data warehouse compute credits - January usage,Eva Thompson
+2026-01-28,Confluent,675.00,USD,software,Kafka managed service - 3 clusters,David Kim
+2026-01-28,MongoDB Atlas,445.50,USD,software,Database hosting - M30 cluster - multi-region,David Kim
+2026-01-25,PagerDuty,350.00,USD,software,Incident management - 25 users,Carol Williams
+2026-01-25,LaunchDarkly,280.00,USD,software,Feature flags - Pro plan,Carol Williams
+2026-01-22,Vercel,189.99,USD,software,Frontend hosting - Pro plan - 5 team members,Alice Chen
+2026-01-22,Supabase,75.00,USD,software,Backend-as-a-service - Pro plan,Alice Chen
+2026-01-20,Sentry,152.00,USD,software,Error monitoring - Business plan,Bob Martinez
+2026-01-20,CircleCI,99.00,USD,software,CI/CD pipeline - Performance plan,Bob Martinez
+2026-01-15,Figma,45.00,USD,software,Design tool - Professional plan - 3 seats,Carol Williams
+2026-01-15,Linear,40.00,USD,software,Project management - 10 users,David Kim
+2026-01-15,Notion,32.00,USD,software,Team workspace - Team plan - 8 members,Alice Chen

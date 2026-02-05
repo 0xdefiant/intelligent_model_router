@@ -1,0 +1,9 @@
+node_modules
+.env
+*.tsbuildinfo
+.vite
+client/node_modules
+server/node_modules
+shared/node_modules
+dist
+.git
